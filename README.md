@@ -16,3 +16,5 @@ July
 Sit down
 Testing
 MarkDown file edited
+Changes done over git hub
+Create a pull reguest and merge it.
